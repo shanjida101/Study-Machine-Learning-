@@ -1,1 +1,1 @@
-# Study-Machine-Learning-
+# Self_Study-Machine-Learning
